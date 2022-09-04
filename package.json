@@ -1,0 +1,22 @@
+{
+  "name": "recipes_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stolarovsky/recipes_server.git"
+  },
+  "author": "Stolar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stolarovsky/recipes_server/issues"
+  },
+  "homepage": "https://github.com/Stolarovsky/recipes_server#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
